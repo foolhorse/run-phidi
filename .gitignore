@@ -1,0 +1,9 @@
+
+# Mac system files
+.DS_Store
+
+# Linux system files
+.directory
+
+# svn files
+.svn/
